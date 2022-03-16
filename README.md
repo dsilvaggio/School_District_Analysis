@@ -20,3 +20,5 @@ An analysis was performed on data from a city school district in order to determ
 
 ## Summary
 Overall, when removing the ninth grade scores and replacing them with NaN we were able to see a very slight decrease in the math, reading, and overall percentage passing in the district summary. We also saw a significant increase in the percentage of students who passed both the math and reading tests at Thomas High School. The increase in the overall passing percentage for Thomas High School cause them to be ranked amongst the top 5 schools when compared by overall performance on the state tests. Our dataframe that allowed us to view both math and reading scores by grade no longer contained a value for ninth grade at Thomas High and instead was replaced with NaN as well. 
+
+! [This is an image](resources/Updated_District_Summary.png) 
