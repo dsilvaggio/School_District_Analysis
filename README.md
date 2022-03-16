@@ -5,7 +5,7 @@ An analysis was performed on data from a city school district in order to determ
 ## Results
 - After removing the ninth grade data from Thomas High School, the percentage of students who passed math, reading, and who passed both slightly decreased. However, was only between 0.1% and 0.3%. An overview of the district summary after the ninth grade students have been removed can be seen below:
 
-! [This is an image](https://github.com/dsilvaggio/School_District_Analysis/blob/78478f7d816545209f059a86cfad5dc227650252/Resources/Screen%20Shot%202022-03-15%20at%206.25.07%20PM.png) 
+! [This is an image] (https://github.com/dsilvaggio/School_District_Analysis/blob/78478f7d816545209f059a86cfad5dc227650252/Resources/Screen%20Shot%202022-03-15%20at%206.25.07%20PM.png) 
 
 - The most noticable change that occured after removing the ninth grade data for Thomas High was in the school summary. With the ninth grade data, the percent of students passing math, reading, and both at Thomas High was 66.9%, 69.7%, and 65.1% respectively. An image of the school summary before removing the data can be seen below:
 
