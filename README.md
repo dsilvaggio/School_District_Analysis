@@ -11,7 +11,7 @@ An analysis was performed on data from a city school district in order to determ
 
 ! [This is an image]
 
-After removing the ninth grade data, these percents increased to 93.2%, 97%, and 90.6%. This was quite a significant increase in the amount of students who passed the two standardized tests, as seen below. 
+- After removing the ninth grade data, these percents increased to 93.2%, 97%, and 90.6%. This was quite a significant increase in the amount of students who passed the two standardized tests, as seen below. 
 
 ! [This is an image]
 
