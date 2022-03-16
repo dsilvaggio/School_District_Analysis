@@ -9,7 +9,7 @@ An analysis was performed on data from a city school district in order to determ
 
 - The most noticable change that occured after removing the ninth grade data for Thomas High was in the school summary. With the ninth grade data, the percent of students passing math, reading, and both at Thomas High was 66.9%, 69.7%, and 65.1% respectively. An image of the school summary before removing the data can be seen below:
 
-! [This is an image] (Resources/THS_including_ninth.png)
+! [This is an image](https://github.com/dsilvaggio/School_District_Analysis/blob/70a013b01ddcdd9a918df1ec08b9b6529471b928/Resources/THS_including_ninth.png)
 
 - After removing the ninth grade data, these percents increased to 93.2%, 97%, and 90.6%. This was quite a significant increase in the amount of students who passed the two standardized tests, as seen below. 
 
